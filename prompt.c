@@ -3,13 +3,11 @@
 
 /**
  * main - prints "$ ", wait for to enter a command, prints it on the next line.
- * @ac: Number of arguments
- * @av[]: Array of arguments
  *
  * Return: Always 0 success
  */
 
-int main(int ac, char *av[])
+int main(void)
 {
 	char *line = NULL;
 	size_t len = 0;
