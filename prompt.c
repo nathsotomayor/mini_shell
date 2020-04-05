@@ -3,6 +3,8 @@
 
 /**
  * main - prints "$ ", wait for to enter a command, prints it on the next line.
+ * @ac: Number of arguments
+ * @av[]: Array of arguments
  *
  * Return: Always 0 success
  */
